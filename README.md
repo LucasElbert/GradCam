@@ -3,3 +3,13 @@ Pytorch reimplementation of the GradCam paper to give visual explanations for ne
 
 ### Reference: 
 Selvaraju, Ramprasaath R., et al. "Grad-cam: Visual explanations from deep networks via gradient-based localization." https://arxiv.org/pdf/1610.02391.pdf
+
+
+### Example:
+Input:
+
+![Example input](example1_in.png)
+
+GradCam result:
+
+![Example output](example1_result.png)
